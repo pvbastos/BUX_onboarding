@@ -1,0 +1,23 @@
+@font-face {
+font-family: 'MaisonNeue';
+src: url('../assets/fonts/MaisonNeueWEB-Book.woff') format('woff');
+src: url('../assets/fonts/MaisonNeueWEB-Book.woff2') format('woff2');
+font-weight: 300;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'MaisonNeue';
+src: url('../assets/fonts/MaisonNeueWEB-BookItalic.woff') format('woff');
+src: url('../assets/fonts/MaisonNeueWEB-BookItalic.woff2') format('woff2');
+font-weight: normal;
+font-style: italic;
+}
+
+@font-face {
+font-family: 'MaisonNeueBold';
+src: url('../assets/fonts/MaisonNeueWEB-Demi.woff') format('woff');
+src: url('../assets/fonts/MaisonNeueWEB-Demi.woff2') format('woff2');
+font-weight: bold;
+font-style: normal;
+}
