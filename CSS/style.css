@@ -71,7 +71,7 @@ p{
   align-items: center;
   background-color: #ffffff;
   height: calc(100vh - 128px);
-
+  z-index: 1;
 }
 
 .content{
@@ -79,6 +79,7 @@ p{
   flex-direction: column;
   max-width: 600px;
   justify-content: center;
+
 }
 
 .logo{
